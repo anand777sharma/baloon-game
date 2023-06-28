@@ -1,0 +1,41 @@
+body{
+    background-image: url('Graphics/Symbol\ 3\ copy.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+#cloud{
+    height: 300px;
+    position: absolute;
+    bottom: -62px;
+    right: 55px;
+}
+/* #pump{
+    height: 433px;
+    position: absolute;
+    bottom: 0px;
+    right: 30px;
+    display: none;
+} */
+#nozzle{
+    height: 217px;
+    position: absolute;
+    bottom: 58px;
+    right: 201px;
+}
+#box{
+    height: 217px;
+    width: 217px;
+    position: absolute;
+    bottom: 40px;
+    right: 81px;
+   
+}
+#handle {
+    height: 215px;
+    position: absolute;
+    bottom: 180px;
+    right: 83px;
+    transition: top 0.5s;
+    /* display: none; */
+  }
